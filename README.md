@@ -58,6 +58,14 @@ Our web app is compiled into a folder of static HTML, JS, and CSS files. You can
 
 You can now access the app at `http://localhost:8080`.
 
+### One-Click Deploy
+
+<a href="https://repocloud.io/details/Standard%20Notes/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/standard-notes"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
+- RepoCloud: One-click template, no other instructions required.
+- Railway: Create your account at the `web` service URL, then set `AUTH_SERVER_DISABLE_USER_REGISTRATION` to `true` on the `standardnotes` service ([template page](https://railway.com/deploy/standard-notes)).
+
 ### Running Web App in Development Mode
 
 2. Clone the repo
